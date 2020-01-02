@@ -1,0 +1,6 @@
+1. In android management API we no need to develop FCM.
+2. Policy should be updated bases upon the android device version
+3. Device can be unified using previous device name and it is acheived by serial number.
+4. Need to accept terms and conditions from the super administrator to use the Managed google play.
+   https://support.google.com/googleplay/work/answer/6138458?hl=en
+5. Check the sb-test with admin console panel.
